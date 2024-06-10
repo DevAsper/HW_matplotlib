@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Генерация двух наборов случайных данных
-num_samples = 100  # Количество образцов
+num_samples = 5  # Количество образцов
 data_x = np.random.rand(num_samples)
 data_y = np.random.rand(num_samples)
 
